@@ -1,4 +1,4 @@
 SpiderSpace
 ===========
 
-Spider Simulator
+Spider Simulator. Sort of.
